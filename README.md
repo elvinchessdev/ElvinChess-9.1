@@ -21,11 +21,19 @@ The development of the **ElvinChess** series began as an initiative by **Elvin M
 
 ---
 
+## 👥 Authors & Contributors
+
+- **Lead Developer / Author:** Elvin M. Dumaran
+- **Contributor:** Jome M. Arado
+
+---
+
 ## ⚙️ Technical Specifications
 
 | Feature | Specification |
 |---|---|
 | **Primary Developer** | Elvin M. Dumaran |
+| **Core Contributor** | Jome M. Arado |
 | **Protocol Support** | UCI (Universal Chess Interface) |
 | **Programming Language** | C++20 |
 | **Evaluation Type** | Hybrid NNUE / Classical Bitboard |
@@ -48,7 +56,7 @@ The development of the **ElvinChess** series began as an initiative by **Elvin M
 ---
 
 ## 📜 License & Open Source Attribution
-This project is open-source software distributed under the terms of the **GNU General Public License v3.0 (GPLv3)**. You are free to modify, distribute, and study the source code provided that all derivative works remain under the same license terms and maintain appropriate author credit to **Elvin M. Dumaran**.
+This project is open-source software distributed under the terms of the **GNU General Public License v3.0 (GPLv3)**. You are free to modify, distribute, and study the source code provided that all derivative works remain under the same license terms and maintain appropriate author credit to **Elvin M. Dumaran** and contributors.
 
 For inquiries, engine builds, or updates, visit the official development repository:  
 🔗 [github.com/elvinchessdev/ElvinChess-9.1](https://github.com/elvinchessdev/ElvinChess-9.1)
